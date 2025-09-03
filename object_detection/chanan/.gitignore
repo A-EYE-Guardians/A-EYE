@@ -1,0 +1,11 @@
+# local venv & artifacts
+venv/
+outputs/
+data/
+*.log
+*.tmp
+.DS_Store
+*.pt
+*.pth
+*.onnx
+*.bin
